@@ -1,0 +1,572 @@
+[
+  {
+    "sura_id": 1,
+    "sura_name": "الفاتحة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/001.mp3"
+  },
+  {
+    "sura_id": 2,
+    "sura_name": "البقرة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/002.mp3"
+  },
+  {
+    "sura_id": 3,
+    "sura_name": "آل عمران",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/003.mp3"
+  },
+  {
+    "sura_id": 4,
+    "sura_name": "النساء",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/004.mp3"
+  },
+  {
+    "sura_id": 5,
+    "sura_name": "المائدة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/005.mp3"
+  },
+  {
+    "sura_id": 6,
+    "sura_name": "الأنعام",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/006.mp3"
+  },
+  {
+    "sura_id": 7,
+    "sura_name": "الأعراف",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/007.mp3"
+  },
+  {
+    "sura_id": 8,
+    "sura_name": "الأنفال",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/008.mp3"
+  },
+  {
+    "sura_id": 9,
+    "sura_name": "التوبة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/009.mp3"
+  },
+  {
+    "sura_id": 10,
+    "sura_name": "يونس",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/010.mp3"
+  },
+  {
+    "sura_id": 11,
+    "sura_name": "هود",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/011.mp3"
+  },
+  {
+    "sura_id": 12,
+    "sura_name": "يوسف",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/012.mp3"
+  },
+  {
+    "sura_id": 13,
+    "sura_name": "الرعد",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/013.mp3"
+  },
+  {
+    "sura_id": 14,
+    "sura_name": "إبراهيم",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/014.mp3"
+  },
+  {
+    "sura_id": 15,
+    "sura_name": "الحجر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/015.mp3"
+  },
+  {
+    "sura_id": 16,
+    "sura_name": "النحل",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/016.mp3"
+  },
+  {
+    "sura_id": 17,
+    "sura_name": "الإسراء",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/017.mp3"
+  },
+  {
+    "sura_id": 18,
+    "sura_name": "الكهف",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/018.mp3"
+  },
+  {
+    "sura_id": 19,
+    "sura_name": "مريم",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/019.mp3"
+  },
+  {
+    "sura_id": 20,
+    "sura_name": "طه",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/020.mp3"
+  },
+  {
+    "sura_id": 21,
+    "sura_name": "الأنبياء",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/021.mp3"
+  },
+  {
+    "sura_id": 22,
+    "sura_name": "الحج",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/022.mp3"
+  },
+  {
+    "sura_id": 23,
+    "sura_name": "المؤمنون",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/023.mp3"
+  },
+  {
+    "sura_id": 24,
+    "sura_name": "النّور",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/024.mp3"
+  },
+  {
+    "sura_id": 25,
+    "sura_name": "الفرقان",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/025.mp3"
+  },
+  {
+    "sura_id": 26,
+    "sura_name": "الشعراء",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/026.mp3"
+  },
+  {
+    "sura_id": 27,
+    "sura_name": "النّمل",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/027.mp3"
+  },
+  {
+    "sura_id": 28,
+    "sura_name": "القصص",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/028.mp3"
+  },
+  {
+    "sura_id": 29,
+    "sura_name": "العنكبوت",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/029.mp3"
+  },
+  {
+    "sura_id": 30,
+    "sura_name": "الرّوم",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/030.mp3"
+  },
+  {
+    "sura_id": 31,
+    "sura_name": "لقمان",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/031.mp3"
+  },
+  {
+    "sura_id": 32,
+    "sura_name": "السجدة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/032.mp3"
+  },
+  {
+    "sura_id": 33,
+    "sura_name": "الأحزاب",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/033.mp3"
+  },
+  {
+    "sura_id": 34,
+    "sura_name": "سبأ",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/034.mp3"
+  },
+  {
+    "sura_id": 35,
+    "sura_name": "فاطر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/035.mp3"
+  },
+  {
+    "sura_id": 36,
+    "sura_name": "يس",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/036.mp3"
+  },
+  {
+    "sura_id": 37,
+    "sura_name": "الصافات",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/037.mp3"
+  },
+  {
+    "sura_id": 38,
+    "sura_name": "ص",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/038.mp3"
+  },
+  {
+    "sura_id": 39,
+    "sura_name": "الزمر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/039.mp3"
+  },
+  {
+    "sura_id": 40,
+    "sura_name": "غافر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/040.mp3"
+  },
+  {
+    "sura_id": 41,
+    "sura_name": "فصّلت",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/041.mp3"
+  },
+  {
+    "sura_id": 42,
+    "sura_name": "الشورى",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/042.mp3"
+  },
+  {
+    "sura_id": 43,
+    "sura_name": "الزخرف",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/043.mp3"
+  },
+  {
+    "sura_id": 44,
+    "sura_name": "الدّخان",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/044.mp3"
+  },
+  {
+    "sura_id": 45,
+    "sura_name": "الجاثية",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/045.mp3"
+  },
+  {
+    "sura_id": 46,
+    "sura_name": "الأحقاف",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/046.mp3"
+  },
+  {
+    "sura_id": 47,
+    "sura_name": "محمد",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/047.mp3"
+  },
+  {
+    "sura_id": 48,
+    "sura_name": "الفتح",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/048.mp3"
+  },
+  {
+    "sura_id": 49,
+    "sura_name": "الحجرات",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/049.mp3"
+  },
+  {
+    "sura_id": 50,
+    "sura_name": "ق",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/050.mp3"
+  },
+  {
+    "sura_id": 51,
+    "sura_name": "الذاريات",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/051.mp3"
+  },
+  {
+    "sura_id": 52,
+    "sura_name": "الطور",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/052.mp3"
+  },
+  {
+    "sura_id": 53,
+    "sura_name": "النجم",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/053.mp3"
+  },
+  {
+    "sura_id": 54,
+    "sura_name": "القمر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/054.mp3"
+  },
+  {
+    "sura_id": 55,
+    "sura_name": "الرحمن",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/055.mp3"
+  },
+  {
+    "sura_id": 56,
+    "sura_name": "الواقعة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/056.mp3"
+  },
+  {
+    "sura_id": 57,
+    "sura_name": "الحديد",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/057.mp3"
+  },
+  {
+    "sura_id": 58,
+    "sura_name": "المجادلة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/058.mp3"
+  },
+  {
+    "sura_id": 59,
+    "sura_name": "الحشر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/059.mp3"
+  },
+  {
+    "sura_id": 60,
+    "sura_name": "الممتحنة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/060.mp3"
+  },
+  {
+    "sura_id": 61,
+    "sura_name": "الصف",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/061.mp3"
+  },
+  {
+    "sura_id": 62,
+    "sura_name": "الجمعة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/062.mp3"
+  },
+  {
+    "sura_id": 63,
+    "sura_name": "المنافقون",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/063.mp3"
+  },
+  {
+    "sura_id": 64,
+    "sura_name": "التغابن",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/064.mp3"
+  },
+  {
+    "sura_id": 65,
+    "sura_name": "الطلاق",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/065.mp3"
+  },
+  {
+    "sura_id": 66,
+    "sura_name": "التحريم",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/066.mp3"
+  },
+  {
+    "sura_id": 67,
+    "sura_name": "الملك",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/067.mp3"
+  },
+  {
+    "sura_id": 68,
+    "sura_name": "القلم",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/068.mp3"
+  },
+  {
+    "sura_id": 69,
+    "sura_name": "الحاقة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/069.mp3"
+  },
+  {
+    "sura_id": 70,
+    "sura_name": "المعارج",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/070.mp3"
+  },
+  {
+    "sura_id": 71,
+    "sura_name": "نوح",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/071.mp3"
+  },
+  {
+    "sura_id": 72,
+    "sura_name": "الجن",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/072.mp3"
+  },
+  {
+    "sura_id": 73,
+    "sura_name": "المزّمّل",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/073.mp3"
+  },
+  {
+    "sura_id": 74,
+    "sura_name": "المدّثر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/074.mp3"
+  },
+  {
+    "sura_id": 75,
+    "sura_name": "القيامة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/075.mp3"
+  },
+  {
+    "sura_id": 76,
+    "sura_name": "الإنسان",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/076.mp3"
+  },
+  {
+    "sura_id": 77,
+    "sura_name": "المرسلات",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/077.mp3"
+  },
+  {
+    "sura_id": 78,
+    "sura_name": "النبأ",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/078.mp3"
+  },
+  {
+    "sura_id": 79,
+    "sura_name": "النازعات",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/079.mp3"
+  },
+  {
+    "sura_id": 80,
+    "sura_name": "عبس",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/080.mp3"
+  },
+  {
+    "sura_id": 81,
+    "sura_name": "التكوير",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/081.mp3"
+  },
+  {
+    "sura_id": 82,
+    "sura_name": "الإنفطار",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/082.mp3"
+  },
+  {
+    "sura_id": 83,
+    "sura_name": "المطفّفين",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/083.mp3"
+  },
+  {
+    "sura_id": 84,
+    "sura_name": "الإنشقاق",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/084.mp3"
+  },
+  {
+    "sura_id": 85,
+    "sura_name": "البروج",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/085.mp3"
+  },
+  {
+    "sura_id": 86,
+    "sura_name": "الطارق",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/086.mp3"
+  },
+  {
+    "sura_id": 87,
+    "sura_name": "الأعلى",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/087.mp3"
+  },
+  {
+    "sura_id": 88,
+    "sura_name": "الغاشية",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/088.mp3"
+  },
+  {
+    "sura_id": 89,
+    "sura_name": "الفجر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/089.mp3"
+  },
+  {
+    "sura_id": 90,
+    "sura_name": "البلد",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/090.mp3"
+  },
+  {
+    "sura_id": 91,
+    "sura_name": "الشمس",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/091.mp3"
+  },
+  {
+    "sura_id": 92,
+    "sura_name": "الليل",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/092.mp3"
+  },
+  {
+    "sura_id": 93,
+    "sura_name": "الضحى",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/093.mp3"
+  },
+  {
+    "sura_id": 94,
+    "sura_name": "الشرح",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/094.mp3"
+  },
+  {
+    "sura_id": 95,
+    "sura_name": "التين",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/095.mp3"
+  },
+  {
+    "sura_id": 96,
+    "sura_name": "العلق",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/096.mp3"
+  },
+  {
+    "sura_id": 97,
+    "sura_name": "القدر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/097.mp3"
+  },
+  {
+    "sura_id": 98,
+    "sura_name": "البينة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/098.mp3"
+  },
+  {
+    "sura_id": 99,
+    "sura_name": "الزلزلة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/099.mp3"
+  },
+  {
+    "sura_id": 100,
+    "sura_name": "العاديات",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/100.mp3"
+  },
+  {
+    "sura_id": 101,
+    "sura_name": "القارعة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/101.mp3"
+  },
+  {
+    "sura_id": 102,
+    "sura_name": "التكاثر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/102.mp3"
+  },
+  {
+    "sura_id": 103,
+    "sura_name": "العصر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/103.mp3"
+  },
+  {
+    "sura_id": 104,
+    "sura_name": "الهمزة",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/104.mp3"
+  },
+  {
+    "sura_id": 105,
+    "sura_name": "الفيل",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/105.mp3"
+  },
+  {
+    "sura_id": 106,
+    "sura_name": "قريش",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/106.mp3"
+  },
+  {
+    "sura_id": 107,
+    "sura_name": "الماعون",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/107.mp3"
+  },
+  {
+    "sura_id": 108,
+    "sura_name": "الكوثر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/108.mp3"
+  },
+  {
+    "sura_id": 109,
+    "sura_name": "الكافرون",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/109.mp3"
+  },
+  {
+    "sura_id": 110,
+    "sura_name": "النصر",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/110.mp3"
+  },
+  {
+    "sura_id": 111,
+    "sura_name": "المسد",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/111.mp3"
+  },
+  {
+    "sura_id": 112,
+    "sura_name": "الإخلاص",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/112.mp3"
+  },
+  {
+    "sura_id": 113,
+    "sura_name": "الفلق",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/113.mp3"
+  },
+  {
+    "sura_id": 114,
+    "sura_name": "النّاس",
+    "sura_link": "http://server10.mp3quran.net/ajm/64/114.mp3"
+  }
+]
